@@ -7,7 +7,7 @@ kg_value_4 = 800.4
 # Conversion factor: Pounds (lb) = 5 kg * 2.20462 ≈ 11.0231 lb
 conversion_factor = 2.20462
 
-# Calculate inches for each centimeter value
+# Calculate pounds for each kilogram value
 pounds_1 = kg_value_1 * conversion_factor
 pounds_2 = kg_value_2 * conversion_factor
 pounds_3 = kg_value_3 * conversion_factor
