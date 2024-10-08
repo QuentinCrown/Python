@@ -1,0 +1,13 @@
+
+PI = 3.14159
+def rectangle_area(length, width):
+    """Calculate the area of a rectangle."""
+    return length * width
+
+def triangle_area(base, height):
+    """Calculate the area of a triangle."""
+    return 0.5 * base * height
+
+def circle_area(radius):
+    """Calculate the area of a circle."""
+    return PI * (radius ** 2)
